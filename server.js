@@ -6,6 +6,9 @@ const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3000;
 
+// bind router db to the app
+server.db = router.db
+
 server.use(auth);
 server.use(middlewares);
 server.use(router);
