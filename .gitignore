@@ -1,3 +1,5 @@
 routes.rest
 
 node_modules/
+
+.env
