@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "email": "johndoe@email.com",
+      "password": "$2a$10$naSmhB3IMEdiECqipfN/SeY.IGHn0Y57Hmz8cfi9VA6G4CwRHtpO6",
+      "name": "John Doe",
+      "address": "Kathmandu, Nepal",
+      "department_id": "1",
+      "role": "employee",
+      "manager_id": null,
+      "joining_date": "2014-01-01T23:28:56.782Z",
+      "id": 1
+    }
+  ]
+}
